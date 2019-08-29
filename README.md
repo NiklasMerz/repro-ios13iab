@@ -1,0 +1,1 @@
+This shows a bug that the in-app-browser closes immediately after opening on iOS 13. iOS 12 works perfectly.
